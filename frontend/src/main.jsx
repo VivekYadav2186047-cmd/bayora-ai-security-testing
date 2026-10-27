@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 import "./style.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://bayora-backend.onrender.com";
 
 function App() {
   const [sessions, setSessions] = useState([]);
